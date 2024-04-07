@@ -3,3 +3,6 @@ Simple demo of how to create virtual environment in django, app in django, proje
 Note:
 1)proassessment means Project level folder
 2) appassessment means App
+
+
+**I will update the project after examination 
